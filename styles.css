@@ -9,6 +9,7 @@ footer{
 	display:flex;
 	justify-content:space-between;
 	align-items:center;
+	padding:20px;
 }
 .logo_name{
 	font-size:20px;
@@ -16,17 +17,12 @@ footer{
 	
 }
 .media-icons{
-	font-size:20px;
-	padding:20px;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	gap:10px;
 }
-.fa-facebook,
-.fa-twitter-square,
-.fa-instagram-square,
-.fa-linkedin,
-.fa-youtube
-{
-	margin-right:7px;
-}
+
 .link-boxes{
 	display:flex;
 	justify-content:space-around;
